@@ -27,7 +27,7 @@
 
 ## Solution ##
 
-
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier/blob/main/resources/Soap%20Classifier.png">
 
 - - - -
 
