@@ -2,14 +2,14 @@
 
 ## Table of Contents ##
 
-* [Introduction]()
-* [Application]()
-* [Solution]()
-  * [Solution Workflow]()
-  * [Evaluation of the Proposed Solution]()
-* [Conclusion]()
-* [Contact Us]()
-* [Rebounding from COVID-19]()
+* [Introduction](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier#introduction)
+* [Application](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier#application)
+* [Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier#solution)
+  * [Solution Workflow](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier#solution-workflow)
+  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier#evaluation-of-the-proposed-solution)
+* [Conclusion](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier#conclusion)
+* [Contact Us](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier#contact-us)
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier#rebounding-from-covid-19)
 
 - - - -
 
@@ -67,7 +67,7 @@ __Email : karthik@etopdigital.com / sales@etopdigital.com__
           
 __Phone : 9944865029__
 
-<img src="">
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier/blob/main/resources/About%20ETOP%20Technologies_Github.png">
 
 - - - -
 
@@ -84,4 +84,4 @@ This work is part of our journey towards Recovery and Reinvention.
 #EtopTechnologies #Artificialintelligence #DeepLearning #MachineLearning
 
 
-<img src="">
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier/blob/main/resources/CoronaPandemic.jpeg">
