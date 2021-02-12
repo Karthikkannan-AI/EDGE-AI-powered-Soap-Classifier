@@ -39,7 +39,7 @@
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/trcuFqSY7X4" target="_blank"><img src="hhttps://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier/blob/main/resources/Soap%20Classification.png"/></a>
+<a href="https://youtu.be/trcuFqSY7X4" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier/blob/main/resources/Soap%20Classification.png"/></a>
 
 - - - -
 
