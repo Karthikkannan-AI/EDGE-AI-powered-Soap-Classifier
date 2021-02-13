@@ -33,7 +33,7 @@
 
 ### Solution Workflow ###
 
-
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier/blob/main/resources/Soap%20Classification%20Workflow.png">
 
 - - - -
 
