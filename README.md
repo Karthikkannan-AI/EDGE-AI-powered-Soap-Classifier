@@ -1,4 +1,4 @@
-# EDGE-AI-powered-Soap-Classifier
+# EDGE AI powered Soap Classifier
 
 ## Table of Contents ##
 
