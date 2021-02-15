@@ -55,7 +55,7 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 
 ### Data Collection ###
 
-We have chosen Soap from foru different manufacturers. 
+We have chosen Soap from three different manufacturers. 
 We have taken thousands of Images of the Soap in different lighting conditions, different orientations, and different background environments.
 
 <img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier/blob/main/resources/Soap%20Classifier.png">
