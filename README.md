@@ -70,7 +70,7 @@ We have taken thousands of Images of the Soap in different lighting conditions, 
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/f_ovDMYGL2Y" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier/blob/main/resources/Soap%20Classification.png"/></a>
+<a href="https://youtu.be/thmnO02qM8s" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Soap-Classifier/blob/main/resources/Soap%20Classification.png"/></a>
 
 - - - -
 
